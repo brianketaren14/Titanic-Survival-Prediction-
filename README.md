@@ -5,6 +5,8 @@ There were an estimated 2,224 passengers and crew aboard the ship, and more than
 The RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. The Titanic was built by the Harland and Wolff shipyard in Belfast. 
 Thomas Andrews, her architect, died in the disaster. In this project i'm gonna make Explore Data analysis and make ann model to predict that passengers survive or not.
 
+Dashboard : https://lookerstudio.google.com/reporting/24c47260-4cec-4389-916e-77c604095208
+
 ## Feature Description
 1. Survived: If the passenger survived(0-No, 1-Yes)
 
